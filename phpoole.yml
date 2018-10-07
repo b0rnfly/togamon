@@ -1,19 +1,19 @@
 site:
-  title: 'Cecil'
-  baseline: "Your blog's butler."
-  baseurl: '/'
+  baseline: waaa
+  baseurl: /
   canonicalurl: true
-  description: "Your blog's butler, powered by PHPoole."
-  paginate:
-    max: 5
-    path: 'page'
   date:
-    format: 'j F Y'
-    timezone: 'Europe/Paris'
+    format: j F Y
+    timezone: Europe/Paris
+  description: ◭
   netlify:
     cms:
-      path: 'admin'
-      version: 'latest'
+      path: admin
+      version: latest
     identity:
-      version: 'v1'
-theme: 'hyde'
+      version: v1
+  paginate:
+    max: 5
+    path: page
+  title: rude_gay
+theme: hyde
