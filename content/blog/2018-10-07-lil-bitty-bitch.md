@@ -5,4 +5,4 @@ published: false
 ---
 <center>
 
-![](/images/head.png)
+![null](/images/head.png)
