@@ -16,4 +16,4 @@ site:
     max: 5
     path: page
   title: rude_gay
-theme: hyde
+theme: Lanyon
