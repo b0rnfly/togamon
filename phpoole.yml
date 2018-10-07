@@ -5,7 +5,7 @@ site:
   date:
     format: j F Y
     timezone: Europe/Paris
-  description: 'Your blog''s butler, powered by PHPoole.'
+  description: ◭
   netlify:
     cms:
       path: admin
